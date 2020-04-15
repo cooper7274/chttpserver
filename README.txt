@@ -5,4 +5,3 @@ https://gnutoolchains.com/mingw64/
 自建c 高并发 httpserver
 
 计划：
-测试完成迁移自动化更新平台状态信息
